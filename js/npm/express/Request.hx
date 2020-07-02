@@ -18,7 +18,6 @@ extends ClientRequest {
 	public var ip : String;
 	public var ips : Array<String>;
 	public var method : String;
-	public var path : String;
 	public var host : String;
 	public var fresh : Bool;
 	public var stale : Bool;
